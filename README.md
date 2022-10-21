@@ -4,4 +4,6 @@ This is a tool I developed to automatically convert my Microsoft Word content (n
 
 This works by using Pandoc and Luca Trevisan's LaTeX2WP program.
 
+(Note: there is currently a bug causing content in subfolders to not be converted properly, so right now the script only converts top-level Word documents in the input folder.)
+
 Hopefully this helps you too!  If you want to contribute, be aware that I don't actively maintain this project, but I'd still be happy to work with you on whatever improvements could be made.
